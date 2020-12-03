@@ -1,4 +1,4 @@
-# cnn-tutorial
+# CS189: Convolutional Neural Networks
 ## Week 8: Intro to Deep Learning
 ### Topic 34: Building your own CNN (Convolution + Pooling) to classify on MNIST/CIFAR-10
 
