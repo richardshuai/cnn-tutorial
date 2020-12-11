@@ -4,11 +4,19 @@
 
 ### Learning Objectives
 This coding assignment, along with the notes and slides, serves as an introduction to convolutional neural networks. From this assignment, students are expected to learn these topics:
-* How convolutional neural networks work to recognize and extract features from images.
+* How convolutions work with different types of kernels
+* How convolutional neural networks work to extract features from images
 * Machine learning technician skills to implement CNNs
 * Intuitive introduction to adversarial inputs
+* Reading and implementing an architecture directly from a research paper
 
-Students wil begin the assignment by developing intuition for what the layers of a convolutional neural network learn during the training process based on a toy example. They will visualize filters from a CNN and will learn how to extract layer activations from a trained model. Then, they will be expected to build their own model to classify on CIFAR-10 and plot the learning curve, helping them to learn machine learning technician skills while also gaining familiarity with common architectural modifications (striding, pooling, batch normalization, etc.). After training their model, they will create their own adversarial inputs to cause their model to misclassify, demonstrating how a model can be susceptible to images with targeted perturbations. Finally, they will also gain additional basic practice with reading and implementing a machine learning paper by implementing a residual block based on the ResNet paper.
+### How these objectives are achived
+* Students wil begin the assignment by implementing a convolution operation and learning about how different convolutions with different kernels transform images. 
+* Then, they will develop an intuition for what the layers of a convolutional neural network learn during the training process based on a toy example. With this toy exapmle, they will visualize filters from a CNN and will learn how to extract layer activations from a trained model. 
+* Then, they will be expected to build their own model to classify on CIFAR-10 and plot the learning curve, helping them to learn machine learning technician skills while also gaining familiarity with common architectural modifications (striding, pooling, batch normalization, etc.). 
+* After training their model, they will create their own adversarial inputs to cause their model to misclassify, demonstrating how a model can be susceptible to images with targeted perturbations. 
+* Finally, they will also gain basic practice with reading and implementing a machine learning paper by implementing a residual block based on the ResNet paper.
 
 ### How to use this repository
-CIFAR10_Classification.ipynb contains the assignment to be completed, while CIFAR10_Classification_solutions.ipynb gives the corresponding solutions.
+CIFAR10_Classification.ipynb contains the assignment to be completed, while CIFAR10_Classification_solutions.ipynb gives the corresponding solutions.  
+The notes, slides, and quiz can be found in the docs folder.
