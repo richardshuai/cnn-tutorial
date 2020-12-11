@@ -12,7 +12,7 @@ This coding assignment, along with the notes and slides, serves as an introducti
 
 ### How these objectives are achived
 * Students wil begin the assignment by implementing a convolution operation and learning about how different convolutions with different kernels transform images. 
-* Then, they will develop an intuition for what the layers of a convolutional neural network learn during the training process based on a toy example. With this toy exapmle, they will visualize filters from a CNN and will learn how to extract layer activations from a trained model. 
+* Then, they will develop an intuition for what the layers of a convolutional neural network learn during the training process based on a toy example. With this toy example, they will visualize filters from a CNN and will learn how to extract layer activations from a trained model. 
 * They will then be expected to build their own model to classify on CIFAR-10 and plot the learning curve, helping them to learn machine learning technician skills while also gaining familiarity with common architectural modifications (striding, pooling, batch normalization, etc.). 
 * After training their model, they will create their own adversarial inputs to cause their model to misclassify, demonstrating how a model can be susceptible to images with targeted perturbations. 
 * Finally, they will also gain basic practice with reading and implementing a machine learning paper by implementing a residual block based on the ResNet paper.
