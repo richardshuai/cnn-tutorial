@@ -19,4 +19,5 @@ This coding assignment, along with the notes and slides, serves as an introducti
 
 ### How to use this repository
 CIFAR10_Classification.ipynb contains the assignment to be completed, while CIFAR10_Classification_solutions.ipynb gives the corresponding solutions.  
-The notes, slides, and quiz can be found in the docs folder.
+
+The notes, slides, and quiz can also be found in the repository.
