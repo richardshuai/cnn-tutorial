@@ -61,3 +61,8 @@ def plot_image_grid(images, title=None, cmap='gray', sizes=2, n_cols=10):
 
     plt.suptitle(title, fontsize=16, y=0.92)
     plt.show()
+
+def normalize(x):
+    a = np.min(x)
+    b = np.max(x)
+    return (x - a) / (b - a)
