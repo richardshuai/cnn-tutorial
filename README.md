@@ -18,6 +18,9 @@ This coding assignment, along with the notes and slides, serves as an introducti
 * Finally, they will also gain basic practice with reading and implementing a machine learning paper by implementing a residual block based on the ResNet paper.
 
 ### How to use this repository
-CIFAR10_Classification.ipynb contains the assignment to be completed, while CIFAR10_Classification_solutions.ipynb gives the corresponding solutions.  
-
-The notes, slides, and quiz can also be found in the repository.
+Coding assignment: CIFAR10_Classification.ipynb 
+Coding assignment solutions: CIFAR10_Classification_solutions.ipynb
+Notes: CNN_Notes.pdf
+Slides: CNN_Slides.pdf
+Quiz: CNN_Quiz_problems.pdf
+Quiz solutions: CNN_Quiz_solutions.pdf
